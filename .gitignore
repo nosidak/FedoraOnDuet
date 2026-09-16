@@ -1,0 +1,5 @@
+reference/
+out/
+*.img
+*.img.zst
+__pycache__/
