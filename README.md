@@ -4,6 +4,11 @@ Fedora KDE Plasma for the original Lenovo Chromebook Duet: MediaTek MT8183,
 `kukui-krane`, with both SKU 0 and SKU 176 panel variants.
 This is an independent device image, not an official Fedora or postmarketOS release.
 
+![Fedora KDE running on the Lenovo Chromebook Duet](docs/images/fedora-kde-on-duet.png)
+
+Fedora 44, KDE Plasma on Wayland and Linux 7.2.2-krane-fedora running on a
+Krane SKU176, with a Wi-Fi address assigned. Screenshot supplied from the device.
+
 ## Download and install
 
 Download the current image and SHA-256 files from
